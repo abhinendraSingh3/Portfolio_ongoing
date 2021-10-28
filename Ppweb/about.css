@@ -1,0 +1,65 @@
+.container{
+    margin-right: 226px;
+    height: 55px;
+}
+.nav{
+    margin-right: 63px;
+}
+.socialmedia1{
+    display:inline-flex;
+    margin-right: -229px;
+}
+.photo{
+    display: flex;
+    justify-content: left;
+    height: 496px;
+    width: 379px;
+    margin: 52px;
+    border: solid;
+    padding: 9px;
+    border-radius: 9px;
+    margin-left:189px;
+    margin-top:-404px;
+}
+.right{
+    display:grid;
+    justify-content: center;
+    margin-left: 356px;
+    margin-top: 53px;
+  
+}
+.name{
+    display: flex;
+    font-size: 37px;
+    margin: 10px;
+    justify-content: center;
+}
+.abt1{
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    margin-bottom: -15px;
+    margin-top:-62px ;
+    margin-right: 34px;
+    
+   
+}
+.name{
+    display: flex;
+    font-size: 42px;
+    margin-bottom: 63px;
+    margin-top: 73px;
+    margin-right: 57px;
+
+}
+.abtcont{
+    display: flex;
+}
+.abt2{
+    display: flex;
+    justify-content: center;
+    font-size: 21px;
+    margin-left: 186px;
+    margin-top:43px;
+    
+}
